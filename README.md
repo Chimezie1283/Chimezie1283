@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chimezie1283
 - 👀 I’m interested in programing and cyber security 
-- 🌱 I’m currently learning front end programing & Governance,Risk and Compliance.
+- 🌱 I’m currently learning front back-end programing @ ALX & Governance,Risk and Compliance.
 - 💞️ I’m looking to collaborate on completing projects.
 - 📫 How to reach me @TheEnlightened
 <!---
