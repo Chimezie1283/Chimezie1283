@@ -9,7 +9,7 @@ I'm a Full-stack developer who loves learning and contributing to the industry
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Portfolio](http://portfolio-project-mu-three.vercel.app/)
 * ✉️  You can contact me at [agbo.chimezie1283@gmail.com](mailto:agbo.chimezie1283@gmail.com)
-* 🧠  I'm learning Python and React
+* 🧠  I'm learning JavaScript, React etc.
 * 🤝  I'm open to collaborating on Backend Projects
 * ⚡  I'm an Igbo Man.....But don't tell anyone
 
